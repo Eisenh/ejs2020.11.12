@@ -1,0 +1,25 @@
+<script src="./three.min.js"></script>
+<script src="bas.js" ></script>
+<script src="TextGeometry.js"></script>
+<script src="FontUtils.js"></script>
+<script src="pnltri.min.js"></script>
+<script src="droid_sans_bold.typeface.js"></script>
+<script src="TweenMax.min.js"></script>
+<script src="an.js"></script>
+
+
+<script>
+    THREE.ShapeUtils.triangulateShape = (function () {
+        var pnlTriangulator = new PNLTRI.Triangulator();
+        return function triangulateShape(contour, holes) {
+            return pnlTriangulator.triangulate_polygon([contour].concat(holes));
+        };
+    })();
+</script>
+<body style="margin: 0; overflow: hidden"
+<a ref="https://codepen.io/zadvorsky/pen/GZmKYX">from codepen.io/zadvorsky/pen/GZmKYX</a>
+<div id="three-container"></div>
+
+<div id="instructions">
+    click and drag to control the animation
+</div>

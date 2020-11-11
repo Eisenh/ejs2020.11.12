@@ -45,7 +45,7 @@ https://aframe.io/aframe-school/
 ## Use cases gallery:   
 https://tympanus.net/Tutorials/InfiniteLights/index.html  infinite highway - three.js used to draw the viewer in to traffic update site.  
 https://tympanus.net/Tutorials/PhysicsMenu/index3.html physics-based menu with three.js and cannon.js  
-https://codepen.io/clockmaker/pen/gpozrX WebGL splash  
+https://codepen.io/clockmaker/pen/gpozrX three.js / WebGL splash  
 https://tympanus.net/Tutorials/3DModelCustomizer/ material selector  
 https://showroom.littleworkshop.fr/  VR material selector  
 http://www.plus360degrees.com/  see water background  
@@ -58,19 +58,19 @@ https://threejs.org/examples/?q=lights#webgl_lights_physical spot and hemisphere
 https://threejs.org/examples/?q=controls#misc_controls_drag  drag items  
 https://stemkoski.github.io/AR-Examples/keyboard-camera-move.html  
   
-### alternate renderers  
+## alternate renderers  
 svg https://codepen.io/wandrianpenguin/pen/EKzPNM  
   
-### loaders
+## loaders
 models (GLTF, GLB, Obj, etc.)  
 SVG 
 json https://s3-us-west-2.amazonaws.com/s.cdpn.io/175711/horse.json   
   https://codepen.io/zadvorsky/pen/LVXeQO?editors=0010 entropony  
 
-### conditional shading  
+## conditional shading  
 https://codepen.io/zadvorsky/pen/MwYayb  
   
-### fluid & refraction  
+## fluid & refraction  
 https://codepen.io/rileah/pen/PXNZvQ water and caustics  
 http://madebyevan.com/webgl-water/ straight WebGL  
   
@@ -82,13 +82,13 @@ Note triangles used to make sphere
 As number of triangles increases, triangle artifacts are visible in a thinner layer towards the edge of the bubble (i.e., where the surface is tangent to the view)  
 Note Fresnel difraction effect (chromatic abberation)     
   
-### soft body & collisions
+## soft body & collisions
 https://threejs.org/examples/#webgl_animation_cloth cloth - three.js  
 https://github.com/dissimulate/Tearable-Cloth/blob/master/Cloth.js  tearable cloth - not three.js  
 https://threejs.org/examples/physics_ammo_rope.html wrecking ball - ammo.js on three.js
 https://threejs.org/examples/physics_ammo_volume.html soft body collisions - ammo.js on three.js
   
-### procedural generation
+## procedural generation
 https://codepen.io/Thibka/pen/XpmbKa 3D sphere fractals  
 https://codepen.io/grgrdvrt/pen/vOgyGp treee  
 https://codepen.io/zadvorsky/pen/bebRPP branches and birds  

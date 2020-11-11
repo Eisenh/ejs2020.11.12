@@ -1,5 +1,5 @@
 # 3D and AR on web - three.js and AR.js
-
+For the final example, you will need a smartphone.  
 
 ## Outline:
 

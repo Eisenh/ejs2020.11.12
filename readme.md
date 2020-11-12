@@ -33,11 +33,9 @@ WebGL is low level way to access 3D functionality on the graphics card, with the
 ## Links:  
 https://threejs.org/
 https://github.com/AR-js-org/AR.js  
-https://stemkoski.github.io/AR.js-examples/index.html  
 https://ar-js-org.github.io/studio/  
-https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html  
-https://aframe.io/aframe-school/  
-  
+https://aframe.io/  
+Alternatives: webXR, Speedy.js, OpenCV.js, JeelizAR, argon.js, paid: 8thwall.com, createWebXR.com
     
 
 # three.js  
@@ -167,7 +165,9 @@ https://stemkoski.github.io/AR.js-examples/index.html
   
 marker based  
 https://stemkoski.github.io/AR.js-examples/cubemap.html  
-cube on Kanji marker
+cube on Kanji marker  
+  
+https://codepen.io/nicolocarpignoli/pen/vMBgob TRex on hiro marker  
 
 Example of a marker  
 <img src="./ejsAR/pattern-ejs.png">  
@@ -183,6 +183,8 @@ Go to this URL on your phone, then aim it at the ejs marker:
 
 ## NFT (natural feature tracking)  
 https://eisenh.github.io/ejs_3D_and_ARh0u1wg/  bbb & friend  
+
+https://kalwalt.github.io/jsartoolkitNFT/examples/arNFT_example.html needs pinball image
 
 
 Make your own!  

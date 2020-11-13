@@ -109,7 +109,7 @@ http://bl.ocks.org/phil-pedruco/9852362
 https://www.steema.com/files/public/teechart/html5/latest/demos/canvas/webgl/threejs_example.htm  
   
 ## Other stuff that we won't likely have time to get to
-https://tympanus.net/codrops/2020/02/11/how-to-create-a-physics-based-3d-cloth-with-cannon-js-and-three-js/
+https://tympanus.net/Tutorials/3DClothSlideshow/
 https://tympanus.net/Tutorials/TextureProjection/ 
 https://codepen.io/frost084/pen/WgjOEE  dancing bars  
 https://codepen.io/eisenh/pen/MWePmjy  voronoi  
@@ -122,6 +122,9 @@ https://codepen.io/mblode/pen/rfDek?editors=1010 float box with Dat.gui
 https://codepen.io/ImagineProgramming/pen/rVxWJo?editors=0010 million dots, diff w every run  
 https://tympanus.net/Tutorials/Interactive3DCharacter/ interactive character  
 http://swissarmyman.com/  swiss army man   
+ 
+https://alteredqualia.com/xg/examples/synthetic_celebrities_evolution.html  
+Just sit back and watch the steps in the deep fake face generation.  Then move your mouse to the center of the screen.  
   
 https://codepen.io/zadvorsky  
 https://codepen.io/zadvorsky/pen/ZBbzBz swarm  
@@ -139,16 +142,10 @@ https://codepen.io/PavelDoGreat/pen/zdWzEL?editors=1010 webgl smoke
 https://tympanus.net/Development/WebGLDistortionConfigurator/index6.html?default=true webGL distortions  
   
 ### videos
-http://static.videogular.com/assets/videos/big_buck_bunny_720p_stereo.ogg Big Buck Bunny video for AR   
-  
 https://www.youtube.com/watch?v=-gZ3Kv9juYg portal video  
-  
-https://alteredqualia.com/xg/examples/synthetic_celebrities_evolution.html  
-Just sit back and watch the steps in the deep fake face generation.  Then move your mouse to the center of the screen.  
+ 
   
   
-  
-
 
 # AR
 
@@ -168,6 +165,14 @@ https://stemkoski.github.io/AR.js-examples/cubemap.html
 cube on Kanji marker  
   
 https://codepen.io/nicolocarpignoli/pen/vMBgob TRex on hiro marker  
+
+https://nicolocarpignoli.github.io/ar-playground/index.html walking man
+
+
+https://nicolocarpignoli.github.io/pesaro/ ducky 
+
+https://jeeliz.com/demos/augmentedReality/demos/threejs/ARCoffee/ coffee
+
 
 Example of a marker  
 <img src="./ejsAR/pattern-ejs.png">  
